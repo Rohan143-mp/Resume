@@ -28,13 +28,13 @@ I am a dedicated BE student in Information Technology with a strong foundation i
 ## 🎓 Education
 
 - **B.E in Information Technology**  
-  *Terna College Of Engineering*, Nerul (08/2020 - 05/2024)
+  *Terna College Of Engineering*, Nerul (08/2024 - Pursuing)
 
 - **Diploma in Computer Engineering**  
-  *Smt. Geeta D. Taktare Polytechnic Gove-Kolad*, Roha (06/2021 - 05/2024)
+  *Smt. Geeta D. Taktare Polytechnic Gove-Kolad*, Roha (06/2022 - 05/2024)
 
 - **HSC (Science)**  
-  *Prabhakar Patil Education Society's Jr. College*, Alibag (06/2019 - 05/2021)
+  *Prabhakar Patil Education Society's Jr. College*, Alibag (06/2011 - 05/2022)
 
 ---
 
