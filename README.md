@@ -8,7 +8,6 @@
 ---
 
 ## 💡 Summary
-
 I am a dedicated BE student in Information Technology with a strong foundation in programming and a passion for technology. My training experience includes working in dynamic environments where I honed my technical skills. I am excited about applying my knowledge in software development and contributing to challenging projects within a reputable organization.
 
 ---
