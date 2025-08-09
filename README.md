@@ -26,6 +26,7 @@ I am a dedicated BE student in Information Technology with a strong foundation i
 
 ## 🎓 Education
 
+
 - **B.E in Information Technology**  
   *Terna College Of Engineering*, Nerul (08/2024 - Pursuing)
 
