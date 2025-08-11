@@ -66,12 +66,6 @@ I am a dedicated BE student in Information Technology with a strong foundation i
 
 ## 🧰 Skills
 
-- PYTHON 
-- JAVA  
-- MySQL
-- FLASK
-- DSA  
-
 
 ## ❤️ Interests
 
